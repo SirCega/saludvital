@@ -1,17 +1,18 @@
-# # 🧩 Documentación de Plugins - Sitio WordPress
+# 🧩 Documentación de Plugins – Sitio WordPress
 
 ## 📚 Tabla de Contenido
 
-- [🔧 Plugins por defecto (Starter Templates + Essential Toolkit)](#-plugins-por-defecto-starter-templates--essential-toolkit)
-- [🆕 Plugins adicionales](#-plugins-adicionales)
- - [WOOF – WooCommerce Products Filter](#woof--woocommerce-products-filter)
-  - [FiboSearch – Ajax Search for WooCommerce](#fibosearch--ajax-search-for-woocommerce)
+- [🔧 Plugins por defecto (Starter Templates + Essential Toolkit)](#plugins-por-defecto-starter-templates--essential-toolkit)
+- [🆕 Plugins adicionales](#plugins-adicionales)
+  - [🛒 WOOF – WooCommerce Products Filter](#woof--woocommerce-products-filter)
+  - [🔍 FiboSearch – Ajax Search for WooCommerce](#fibosearch--ajax-search-for-woocommerce)
+- [📝 Notas adicionales](#notas-adicionales)
 
 ---
 
 ## 🔧 Plugins por defecto (Starter Templates + Essential Toolkit)
 
-> Estos plugins fueron instalados automáticamente junto al tema **Astra** y la plantilla inicial.
+> Estos plugins fueron instalados automáticamente junto al tema **Astra** y la plantilla inicial:
 
 - **Astra Pro**
 - **Elementor**
@@ -31,40 +32,54 @@
 ## 🆕 Plugins adicionales
 
 ### 🛒 WOOF – WooCommerce Products Filter
-**Versión actual:** [última versión estable en WordPress.org](https://es.wordpress.org/plugins/woocommerce-products-filter/)
 
-**Autor:** realmag777
+**Versión actual:** [Última versión en WordPress.org](https://es.wordpress.org/plugins/woocommerce-products-filter/)  
+**Autor:** `realmag777`
 
 #### Funcionalidad:
 - Filtro avanzado para productos WooCommerce por categorías, etiquetas, atributos, precio, SKU y más.
 - Compatible con AJAX para una experiencia fluida (sin recarga de página).
 - Incluye widgets, shortcodes y soporte para taxonomías personalizadas.
 - Estilo adaptable a diferentes temas y dispositivos.
-- Soporte para idiomas (compatible con WPML y Polylang).
+- Compatible con WPML y Polylang.
 
 #### Ventajas:
-- Gratuito y poderoso.
-- Altamente configurable.
-- Amplio soporte y documentación.
+- ✅ Gratuito y poderoso.
+- 🔧 Altamente configurable.
+- 📚 Amplio soporte y documentación.
 
 #### Limitaciones:
-- Algunas funciones visuales están reservadas para la versión premium.
+- ⚠️ Algunas funciones visuales están disponibles solo en la versión premium.
 
 ---
 
-### 🔸 FiboSearch – Ajax Search for WooCommerce
+### 🔍 FiboSearch – Ajax Search for WooCommerce
 
-**Descripción**:  
-Plugin de búsqueda instantánea tipo AJAX para WooCommerce. Muestra sugerencias rápidas mientras el usuario escribe.
+**Versión actual:** [Ver en WordPress.org](https://es.wordpress.org/plugins/ajax-search-for-woocommerce/)  
+**Autor:** `FiboSearch Team`
+
+#### Funcionalidad:
+- Búsqueda instantánea tipo AJAX mientras el usuario escribe.
+- Sugerencias automáticas de productos, imágenes, precios y descripciones.
+- Compatible con Elementor y Gutenberg.
+- Ideal para mejorar la UX de tiendas con muchos productos.
+
+#### Ventajas:
+- 🔎 Mejora drásticamente la experiencia de búsqueda.
+- 🚀 Muy rápido y liviano.
+- ✅ Gratuito con funciones útiles.
+
+#### Limitaciones:
+- 🔒 Algunas funciones avanzadas están disponibles solo en la versión Pro (de pago).
 
 ---
 
 ## 📝 Notas adicionales
 
-- ✅ Plugins esenciales.
-- 🛠️ En revisión o pruebas.
-- ⚠️ Potencial conflicto o dependencia crítica.
+- ✅ Plugins esenciales y recomendados.
+- 🛠️ Actualmente en pruebas o revisión.
+- ⚠️ Plugins con posibles conflictos o dependencias críticas (revisar antes de actualizaciones).
 
 ---
 
-**Última actualización**: 2025-06-09  
+**📅 Última actualización**: `2025-06-09`
